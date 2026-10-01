@@ -43,3 +43,5 @@ jobs:
           git add assets/seasonal_music.ogg
           git commit -m "Convert seasonal music to Vorbis [vorbis-converted]"
           git push
+
+# Triggered after workflow creation
